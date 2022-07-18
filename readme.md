@@ -3,3 +3,5 @@ This is all the Pepe emojis from the [Pepe Emoj](https://pepe-is.life/) servers.
 ![image](https://user-images.githubusercontent.com/79660414/179430750-0eadc6ef-a693-43d1-b2c1-6afb37e72dc0.png)
 
 # [Download All Emojis](https://github.com/Overimagine1/pepe-server-archive/archive/refs/heads/main.zip)
+
+# [Discord/Download Individually](https://discord.gg/f4yAVKwbfx)
